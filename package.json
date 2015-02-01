@@ -1,0 +1,6 @@
+{
+  "name": "game-of-life",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
